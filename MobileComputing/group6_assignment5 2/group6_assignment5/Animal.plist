@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Alligator</string>
+		<key>sciname</key>
+		<string>Alligator mississippiensis</string>
+		<key>aclass</key>
+		<string>Reptilia</string>
+		<key>size</key>
+		<string>226 kg</string>
+		<key>imagename1</key>
+		<string>alligator1</string>
+		<key>imagename1caption</key>
+		<string>A Large Alligator!</string>
+		<key>imagename2</key>
+		<string>alligator2</string>
+		<key>imagename2caption</key>
+		<string>A Curious Alligator!</string>
+		<key>imagename3</key>
+		<string>alligator3</string>
+		<key>imagename3caption</key>
+		<string>Alligator looking for food!</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Elephant</string>
+		<key>sciname</key>
+		<string>Loxodonta</string>
+		<key>aclass</key>
+		<string>Mammalia</string>
+		<key>size</key>
+		<string>5896 kg</string>
+		<key>imagename1</key>
+		<string>elephant1</string>
+		<key>imagename1caption</key>
+		<string>An elephant and its baby!</string>
+		<key>imagename2</key>
+		<string>elephant2</string>
+		<key>imagename2caption</key>
+		<string>An elephant walking!</string>
+		<key>imagename3</key>
+		<string>elephant3</string>
+		<key>imagename3caption</key>
+		<string>An elephant with larger ears!</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Killer whale</string>
+		<key>sciname</key>
+		<string>Orcinus orca</string>
+		<key>aclass</key>
+		<string>Mammalia</string>
+		<key>size</key>
+		<string>190 kg</string>
+		<key>imagename1</key>
+		<string>orca1</string>
+		<key>imagename1caption</key>
+		<string>An orca out of water!</string>
+		<key>imagename2</key>
+		<string>orca2</string>
+		<key>imagename2caption</key>
+		<string>A verticle killer whale!</string>
+		<key>imagename3</key>
+		<string>orca3</string>
+		<key>imagename3caption</key>
+		<string>Two killer whales!</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Zebra</string>
+		<key>sciname</key>
+		<string>Equus Quagga</string>
+		<key>aclass</key>
+		<string>mammalia</string>
+		<key>size</key>
+		<string>400 kg</string>
+		<key>imagename1</key>
+		<string>zebra1</string>
+		<key>imagename1caption</key>
+		<string>A strong zebra!</string>
+		<key>imagename2</key>
+		<string>zebra2</string>
+		<key>imagename2caption</key>
+		<string>A grazing zebra!</string>
+		<key>imagename3</key>
+		<string>zebra3</string>
+		<key>imagename3caption</key>
+		<string>An alert zebra!</string>
+	</dict>
+</array>
+</plist>

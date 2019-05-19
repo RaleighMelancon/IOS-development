@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Great White Shark</key>
+	<dict>
+		<key>name</key>
+		<string>Great White Shark</string>
+		<key>sciname</key>
+		<string>Carcharodon Carcharias</string>
+		<key>aclass</key>
+		<string>Chondrichthyes</string>
+		<key>size</key>
+		<string>680 kg</string>
+	</dict>
+	<key>Longhorn</key>
+	<dict>
+		<key>name</key>
+		<string>Longhorn</string>
+		<key>sciname</key>
+		<string>Bos Taurus</string>
+		<key>aclass</key>
+		<string>Mammalia</string>
+		<key>size</key>
+		<string>910 kg</string>
+	</dict>
+	<key>Lion</key>
+	<dict>
+		<key>name</key>
+		<string>Lion</string>
+		<key>sciname</key>
+		<string>Panthera Leo</string>
+		<key>aclass</key>
+		<string>Mammalia</string>
+		<key>size</key>
+		<string>190 kg</string>
+	</dict>
+	<key>Zebra</key>
+	<dict>
+		<key>name</key>
+		<string>Zebra</string>
+		<key>sciname</key>
+		<string>Equus Quagga</string>
+		<key>aclass</key>
+		<string>mammalia</string>
+		<key>size</key>
+		<string>400 kg</string>
+	</dict>
+</dict>
+</plist>
